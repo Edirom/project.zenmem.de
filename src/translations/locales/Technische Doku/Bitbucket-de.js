@@ -1,0 +1,3 @@
+export default {
+(4816964,'<p>S&auml;mtlicher Quellcode des Projektes findet sich auf der Plattform <a href=\"https://bitbucket.org/zenmem\">Bitbucket</a>. Getrennt gibt es hierbei einzelne Projekte f&uuml;r die einzelnen Komponenten die oftmals f&uuml;r sich allein als Microservice auf unterschiedlichen Plattformen betrieben werden k&ouml;nnen.</p><p><em>TODO: Software f&uuml;r&nbsp;Nutzung&nbsp;des Quellcodes (Git und Varianten)</em></p>',4751454,2),
+};

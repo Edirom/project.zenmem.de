@@ -1,0 +1,3 @@
+export default {
+(6029347,'<p>Vertaktungseditor <span style=\"color: black;\">ist ein Browser-basiertes Werkzeug und unterst&uuml;tzt Editoren bei der</span> Markierung von <span>Taktpositionen<span class=\"apple-converted-space\">&nbsp;</span>und anderen Fragmenten</span>&nbsp;auf Abbildungen von Notenmaterial.&nbsp;</p><p>Verweis auf Portfoliospace in Richtung Personas, Erkenntnisse, Anforderungen</p><p>&nbsp;</p><p>Aufgabenmodell, EInordnung in gro&szlig;es und ganzes (Systemlandschaft, gro&szlig;es Aufgabenmodell)</p><p>&nbsp;</p><p>&nbsp;</p>',5996590,2),
+    };

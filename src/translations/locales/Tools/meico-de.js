@@ -1,0 +1,3 @@
+export default {
+(11599935,'<p><a href=\"http://www.cemfi.de/research/center-music-edition-media/meico\">Meico</a> ist ein Konverter f&uuml;r die Verarbeitung von Dateien im Format der <a href=\"http://music-encoding.org/\">Music Encoding Initiative</a> (MEI), der im <a href=\"http://www.cemfi.de/\">Zentrum f&uuml;r Musik- und Filminformatik</a> mit dem Fokus entwickelt wurde, in MEI codierte (eindeutige) Musik in andere Formate &uuml;berf&uuml;hren zu k&ouml;nnen. Der Konverter befindet sich bislang noch in einem Alpha-Stadium und unterst&uuml;tzt momentan im Wesentlichen die Ausgabe MIDI.</p>',11337827,2),
+    };

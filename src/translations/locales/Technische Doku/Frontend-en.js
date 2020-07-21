@@ -1,0 +1,3 @@
+export default {
+(5275769,'<pre>In order to start the zenmem frontend use:</pre><p>&nbsp;</p><ac:structured-macro ac:name=\"code\"><ac:parameter ac:name=\"theme\">RDark</ac:parameter><ac:plain-text-body><![CDATA[git clone --depth 1 https://bitbucket.org/zenmem/zenmem-frontend.git\ncd zenmem-frontend\n# install the project\'s dependencies\nnpm install\nnpm start\n\n\n\n\n]]></ac:plain-text-body></ac:structured-macro><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>How to run the software!</p><p>&nbsp;</p><p>VERWEIS AUF BITBUCKET REPO UND JIRA?</p>',5243117,2),
+};
