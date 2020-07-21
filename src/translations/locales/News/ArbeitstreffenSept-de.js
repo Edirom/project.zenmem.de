@@ -1,0 +1,3 @@
+export default {
+(11599927,'<p>Am 01. September treffen sich die projektverantwortlichen Professoren und Mitarbeiter zu einem erneuten Konsortialtreffen in den neu bezogenen R&auml;umen des Wissenschaftsforums Musikbibliothek | Musikwissenschaft Detmold. Themen sind unter anderem die Organisation verschiedener Arbeitsaspekte, der Austausch &uuml;ber bereits geschehene Arbeiten und den Stand der Softwareentwicklung.</p>',11337819,2),
+};

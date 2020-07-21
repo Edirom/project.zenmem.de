@@ -1,0 +1,3 @@
+export default {
+(11600162,'<ac:structured-macro ac:name=\"german\" ac:schema-version=\"1\" ac:macro-id=\"05f43e55-5e47-4ddd-aefd-63364e3e62bd\"><ac:parameter ac:name=\"atlassian-macro-output-type\">INLINE</ac:parameter><ac:rich-text-body><p>Das Zentrum Musik &ndash; Edition &ndash; Medien wird auch dieses Jahr wieder mir mehreren Mitarbeitern auf der <a href=\"http://music-encoding.org/community/conference/\">Music Encoding Conference</a> vom 16. bis 19. Mai vertreten sein. Schicken Sie uns eine <a href=\"mailto:info@zenmem.de\">Mail</a> (<a href=\"mailto:info@zenmem.de\">info@zenmem.de</a>) oder schreiben Sie uns per <a href=\"https://twitter.com/ZentrumMEM\">Twitter</a>, wenn Sie uns treffen m&ouml;chten.</p></ac:rich-text-body></ac:structured-macro>
+    };

@@ -1,0 +1,3 @@
+export default {
+(11600105,'<p>Bei der diesj&auml;hrigen Edirom Summer School, die bereits zum sechsten Mal stattfand, f&uuml;hrten Mitarbeiter des Zentrums ene Teilnehmerbefragung in den jeweiligen Kursen durch. Ergebnisse und Vorschl&auml;ge werden demn&auml;chst auch hier ver&ouml;ffentlicht und sollen in die Organisation der n&auml;chsten Summer School mit einflie&szlig;en.</p>',11338030,2),
+};

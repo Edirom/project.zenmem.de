@@ -1,0 +1,3 @@
+export default {
+(11599918,'<p>Der Gesch&auml;ftsf&uuml;hrer des ZenMEM Daniel R&ouml;wenstrunk wurde neben Herrn Johannes Kepper aus dem Projekt <a href=\"http://beethovens-werkstatt.de\">Beethovens Werkstatt</a> von Axel Rahmlow vom Deutschlandradio Kultur interviewt. Der Beitrag mit Text und Audio kann <a href=\"http://www.deutschlandradiokultur.de/musikwissenschaft-besser-spielen-mit-der-richtigen-app.2177.de.html?dram:article_id=313937\">hier</a> abgerufen werden.</p><p><br /></p>',11337810,2),
+};

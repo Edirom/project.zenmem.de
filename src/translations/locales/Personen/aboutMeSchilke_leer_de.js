@@ -1,0 +1,3 @@
+export default {
+(2523199,'\n<ac:layout><ac:layout-section ac:type=\"single\"><ac:layout-cell>\n<h4>About Me (Elena Schilke)</h4><p>You may edit this page to include additional information about yourself.</p><p>E-mail: silkeh1113@googlemail.com</p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"two_right_sidebar\"><ac:layout-cell>\n<p><ac:structured-macro ac:name=\"recently-updated\" /></p></ac:layout-cell><ac:layout-cell>\n<h2>Navigate space</h2><p><ac:structured-macro ac:name=\"pagetreesearch\" /></p><p><ac:structured-macro ac:name=\"pagetree\" /></p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"single\"><ac:layout-cell>\n<p>&nbsp;</p></ac:layout-cell></ac:layout-section></ac:layout>',2490472,2),
+    };

@@ -1,0 +1,3 @@
+export default {
+(11600162,'<ac:structured-macro ac:name=\"english\" ac:schema-version=\"1\" ac:macro-id=\"8e0049ec-c63e-4bd0-b385-452afa9d2b4b\"><ac:parameter ac:name=\"atlassian-macro-output-type\">INLINE</ac:parameter><ac:rich-text-body><p>People from the Center for Music, Edition and Media will be present at this year\'s <a href=\"http://music-encoding.org/community/conference/\">Music Encoding Conference</a> from May 16 to 19 in Tours, France. If you like to meet us there, feel free to send an <a href=\"mailto:info@zenmem.de\">email</a> (<a href=\"mailto:info@zenmem.de\">info@zenmem.de</a>) or write a message at <a href=\"https://twitter.com/ZentrumMEM\">Twitter</a>.</p></ac:rich-text-body></ac:structured-macro>',11338098,2),
+    };

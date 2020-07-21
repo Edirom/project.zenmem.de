@@ -1,0 +1,3 @@
+export default {
+(11599905,'<p>Am 6. und 7. November fand das Kickoff Treffen aller Angestellten sowie der bereits angestellten Mitarbeiter in den R&auml;umlichkeiten der Hochschule f&uuml;r Musik statt. Dem strategischen Zusammentreffen, das vor allem davon gepr&auml;gt war, einen konkreten Arbeitsplan f&uuml;r die Startphase des Projekts aufzustellen, folgte ein Mitarbeitertreffen, in dem erste Projektgruppen gebildet und ein gemeinsames Verst&auml;ndnis des Projekts herausgearbeitet wurden.</p>',11337793,2),
+};

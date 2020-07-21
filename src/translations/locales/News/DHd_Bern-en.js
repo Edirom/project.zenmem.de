@@ -1,0 +1,3 @@
+export default {
+(7372821,'<span lang=\"en\"><ac:link><ri:user ri:userkey=\"036a0e4f4e25dcd9014e49f6d7730005\" /></ac:link>, Andreas M&uuml;nzmay and <ac:link><ri:user ri:userkey=\"036a0e4f4d328b24014d328d41710002\" /><ac:plain-text-link-body><![CDATA[Daniel Röwenstrunk]]></ac:plain-text-link-body></ac:link> will be attending this year\'s DHd conference in Berne. Contact us if you want to meet us.</span></p></ac:rich-text-body></ac:structured-macro>',7307287,2),
+    };
