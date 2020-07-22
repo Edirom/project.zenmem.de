@@ -1,0 +1,5 @@
+export default {
+
+(18087955,'<ac:layout><ac:layout-section ac:type=\"single\"><ac:layout-cell><p>An der Hochschule f&uuml;r Musik in Detmold, der Hochschule Ostwestfalen-Lippe und der Universit&auml;t Paderborn gibt es verschiedene Angebote, sein Studium im Bereich Digital Humanities zu vertiefen, beispielsweise durch einen Master oder durch Professionalisierungsbereiche. </p><p><br /></p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"single\"><ac:layout-cell><h3>Neuer Master: &quot;Audiovisual Arts Computing&quot; an der Hochschule Ostwestfalen-Lippe und der Hochschule f&uuml;r Muisk Detmold</h3><p><br /></p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"single\"><ac:layout-cell><h3>Professionalisierungsbereich &quot;Digitale Musikedition&quot; des Musikwissenschaftlichen Seminars Detmold/Paderborn</h3><p><br /></p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type=\"single\"><ac:layout-cell><h3>Seminar &quot;Einf&uuml;hrung in die Digital Humanities&quot; an der Universit&auml;t Paderborn</h3><p><br /></p></ac:layout-cell></ac:layout-section></ac:layout>',18055196,2),
+
+};
