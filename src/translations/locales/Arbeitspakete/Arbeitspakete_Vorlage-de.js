@@ -1,0 +1,6 @@
+    export default {
+    
+    (2523160,'<p>F&uuml;r Mitarbeiter&nbsp;<ac:link><ri:user ri:userkey=\"036a0e4f4d328b24014d328d37cb0001\" /></ac:link> vom&nbsp;<time datetime=\"2015-12-08\" />&nbsp;</p><h2>Beschreibung der Rolle im Projekt</h2><p><ac:placeholder>Hier sollte die Rolle im gesamten Projekt als &uuml;bergeordnetes Ziel beschrieben werden </ac:placeholder></p><h2>Ziele</h2><h3>Ziel <ac:placeholder>Nummer</ac:placeholder></h3><table><tbody><tr><td>Zielbeschreibung:</td><td><ac:placeholder>Hier sollte das Ziel beschrieben werden </ac:placeholder></td></tr><tr><td>Voraussetzungen:</td><td><ul><li><ac:placeholder>Hier sollten die Voraussetzungen f&uuml;r das Ziel beschrieben werden</ac:placeholder></li></ul></td></tr><tr><td>Aufgaben:</td><td><ac:task-list>\n<ac:task>\n<ac:task-id>1</ac:task-id>\n<ac:task-status>incomplete</ac:task-status>\n<ac:task-body><ac:placeholder>Hier sollten die einzelnen Aufgaben beschrieben werden </ac:placeholder></ac:task-body>\n</ac:task>\n</ac:task-list>\n</td></tr><tr><td>Zeitrahmen:</td><td>von&nbsp;<ac:placeholder>//Startdatum</ac:placeholder> bis <ac:placeholder>//Enddatum</ac:placeholder><ac:placeholder>&nbsp;</ac:placeholder></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p>',2490400,2),
+
+    
+    }
