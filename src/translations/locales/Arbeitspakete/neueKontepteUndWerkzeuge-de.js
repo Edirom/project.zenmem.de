@@ -1,0 +1,6 @@
+    export default {
+    
+    (11600047,'<h1>Mitwirkende</h1><h2>Verantwortliche</h2><p><ac:link><ri:user ri:userkey=\"036a0e4f4d328b24014d328d41710002\" /><ac:plain-text-link-body><![CDATA[Daniel Röwenstrunk]]></ac:plain-text-link-body></ac:link></p><h2>Bearbeiter</h2><p>N.N.</p><h1>Zeitraum</h1><p><time datetime=\"2015-06-01\" /> bis&nbsp;<time datetime=\"2017-02-28\" />&nbsp;</p><h1>Abh&auml;ngigkeiten</h1><p>&nbsp;</p><h1>Inhalt</h1><p>Um in der digitalen Musik/Medien-Edition mit verschiedenen Medien und nicht-textuellen Objekten zu arbeiten, müssen diese softwareseitig umfassend unterstützt werden. Dies umfasst u.a. die multimediale Darstellung und die Eingabe bzw. Erfassung von verschiedensten nicht-textuellen Objekten, die sowohl statisch (z.B. Fotos, Scans, Musiknotation) aber auch zeitabhängig (z.B. Audio, Video) sein können. Dabei wird es auch nötig sein, neue Visualisierungskonzepte und Werkzeuge (z.B. in Edirom Online oder Edirom Editor), beispielsweise für die 1:1-Skalierung oder Farbanpassung für Originaldokumente zu entwickeln bzw. zu integrieren. Eine weitere zentrale Erweiterung der Edition ist die Ergänzung einer interaktiven Musiknotation, die verschiedene Anpassungen z.B. der Instrumentation oder Schlüsselung ermöglichen wird.</p><h1>Ergebnis</h1><p>&nbsp;</p><h1>Offene Punkte</h1>',11337971,2),
+
+    
+    }

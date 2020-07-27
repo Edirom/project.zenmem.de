@@ -1,0 +1,6 @@
+    export default {
+    
+    (4816972,'<h1>Mitwirkende</h1><h2>Verantwortliche</h2><p><ac:link><ri:user ri:userkey=\"036a0e4f4e25dcd9014e49a889080004\" /></ac:link></p><h2>Bearbeiter</h2><p><ac:link><ri:user ri:userkey=\"036a0e4f4d6bb32d014daea8c8520004\" /></ac:link></p><h1>Zeitraum</h1><p><time datetime=\"2015-05-01\" /> bis&nbsp;<time datetime=\"2015-07-31\" />&nbsp;</p><p><time datetime=\"2016-02-01\" /> bis&nbsp;<time datetime=\"2016-03-31\" />&nbsp;</p><p><time datetime=\"2016-11-01\" /> bis&nbsp;<time datetime=\"2016-12-31\" />&nbsp;</p><p><time datetime=\"2017-07-01\" /> bis&nbsp;<time datetime=\"2017-08-31\" />&nbsp;</p><h1>Abh&auml;ngigkeiten</h1><p>&nbsp;</p><h1>Inhalt</h1><p>Hierfür sind in mehreren Schritten sowohl qualitative als auch quantitative Studien zu veränderten Bildungskonzepten im digitalen Medium und zu veränderten Nutzungsverhalten, Handlungsstrategien und Orientierungen bei der Nutzung digitaler Medien durchzuführen. Den Konzeptionen der entwicklungs- orientierten Bildungsforschung (Reinmann/Sesink 2011) und der prozessorientierten Bildungsarbeit (Sloane 2007) folgend sind Evaluation und Qualitätssicherung bereits in den Projektprozess integriert.</p><h1>Ergebnis</h1><p>&nbsp;</p><h1>Offene Punkte</h1>',4751478,2),
+
+    
+    }

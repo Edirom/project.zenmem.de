@@ -1,0 +1,6 @@
+    export default {
+    
+    (27983949,'<p><ac:image ac:height=\"77\"><ri:attachment ri:filename=\"AP 5.4.png\" /></ac:image></p><p>Verantwortlicher: <ac:link><ri:user ri:userkey=\"036a0e4f4e25dcd9014e4ac8a58e0007\" /></ac:link><br />Mitarbeiter: <ac:link><ri:user ri:userkey=\"036a0e4f4e25dcd90150d30ee305000d\" /></ac:link>, <ac:link><ri:user ri:userkey=\"036a0e4f5d79d80f015d98d216b60000\" /></ac:link><br />Berater: <ac:link><ri:user ri:userkey=\"036a0e4f4d328b24014d328d37cb0001\" /></ac:link><br />Personenmonate: ca. 2 PM</p><p>Neben den quantitativen und qualitativen Evaluationen zu den Anforderungen der Nutzer ist es notwendig, eine permanent nutzbare M&ouml;glichkeit f&uuml;r Feedback und W&uuml;nsche zu schaffen. Auf diese Weise sollen die Nutzer der Edirom-Werkzeuge st&auml;rker in die Entwicklung einbezogen werden. &Uuml;ber ein entsprechendes System auf der Webseite des Zentrums sollen Nutzer Fehler melden, einzelne Aspekte der Software diskutieren und Erweiterungen und &Auml;nderungen vorschlagen k&ouml;nnen.</p><p><strong>Ergebnisse</strong>: System f&uuml;r Feedback der Edirom-Nutzer</p><p><strong>Handlungsbedarf und Ergebnisse bis Klausurtagung (17.&ndash;18. Januar 2017):</strong></p><p><br /></p>',27951211,2),
+
+    
+    }

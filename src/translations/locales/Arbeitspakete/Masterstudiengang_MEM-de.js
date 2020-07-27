@@ -1,0 +1,6 @@
+    export default {
+    
+    (4358228,'<h1>Mitwirkende</h1><h2>Verantwortliche</h2><p><ac:link><ri:user ri:userkey=\"036a0e4f4e25dcd9014e49a889080004\" /></ac:link>, Rebecca Grotjahn, <ac:link><ri:user ri:userkey=\"036a0e4f4e25dcd9014e49f6d7730005\" /></ac:link></p><h2>Bearbeiter</h2><p><ac:link><ri:user ri:userkey=\"036a0e4f4d6bb32d014daea8c8520004\" /></ac:link>, <ac:link><ri:user ri:userkey=\"036a0e4f4d6bb32d014dae3aef6b0003\" /></ac:link></p><h1>Zeitraum</h1><p><time datetime=\"2015-04-01\" /> bis&nbsp;<time datetime=\"2015-05-31\" />&nbsp;</p><p><time datetime=\"2016-01-01\" /> bis&nbsp;<time datetime=\"2016-02-28\" />&nbsp;</p><p><time datetime=\"2016-08-01\" /> bis&nbsp;<time datetime=\"2016-09-30\" />&nbsp;</p><p><time datetime=\"1017-02-01\" /> bis&nbsp;<time datetime=\"2017-08-31\" />&nbsp;</p><h1>Abh&auml;ngigkeiten</h1><p>&nbsp;</p><h1>Inhalt</h1><p>Daran anknüpfend münden diese Be- strebungen schlie&szlig;lich in der Entwicklung und Einrichtung eines neuen, alle beteiligten Institutionen ein- beziehenden Masterstudiengangs &ldquo;Musik &ndash; Edition &ndash; Medien&rdquo;.</p><h1>Ergebnis</h1><p>&nbsp;</p><h1>Offene Punkte</h1>',4325481,2),
+
+    
+    }
